@@ -6,8 +6,6 @@ import { Component } from '@angular/core';
   standalone: true,
   imports: [NgOptimizedImage],
   templateUrl: './app-header.component.html',
-  styleUrl: './app-header.component.scss'
+  styleUrl: './app-header.component.scss',
 })
-export class AppHeaderComponent {
-
-}
+export class AppHeaderComponent {}
